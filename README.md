@@ -5,6 +5,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/isabellanunes/responsive-website-30min?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/isabellanunes/responsive-website-30min?style=flat-square)
 
-<div style="text-align:center"><img src=".readme/project.png" style="width: 600px" /></div>
+<div style="text-align:center"><img src=".readme/project.png" style="width: 500px" /></div>
 
 This repository has a responsive website made it in 30 minutes, referencing a tutorial available at [Thu Nghiem YouTube Channel](https://www.youtube.com/watch?v=d-qVF18Q7es&feature=youtu.be).
