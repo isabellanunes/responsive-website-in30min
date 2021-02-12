@@ -1,5 +1,5 @@
 <h1 align="center">
-    Build a Responsive Website Using HTML and CSS in 30 minutes
+    Responsive Website using HTML and CSS in 30 minutes
 </h1>
 
 <p align="center">
@@ -21,7 +21,6 @@
 
 - HTML
 - CSS
-- JavaScript
 
 ## Project
 
