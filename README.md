@@ -1,5 +1,5 @@
 <h1 align="center">
-    Responsive Website using HTML and CSS in 30 minutes
+    Responsive website using HTML and CSS in 30 minutes
 </h1>
 
 <p align="center">
@@ -12,24 +12,23 @@
 <br />
 
 <p align="center">
-    <img src=".readme/project.png" width = "600px" />
+    <img src=".readme/image01.png" width = "600px" />
 </p>
 
 <br />
 
-## Technologies
-
+## Technologies and requirements
 - HTML
 - CSS
 
 ## Project
-
 This repository has a responsive website made it in 30 minutes, referencing a tutorial available at [Thu Nghiem YouTube Channel](https://www.youtube.com/watch?v=d-qVF18Q7es&feature=youtu.be).
 
 ## Run
+Just open the [index.html](index.html) in any browser.
 
-Just open the `index.html`.
+## Status
+Done ✅
 
 ## License
-
-This project is under the CC BY-SA 4.0. See [LICENSE](/LICENSE.md) file for more details.
+This project is under the MIT License. See [LICENSE](/LICENSE.md) file for more details.
